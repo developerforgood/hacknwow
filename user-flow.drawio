@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T10:36:01.974Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EnpUx-tS8GPnBZYG70RO" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T10:50:15.463Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ua2hcFPeY8klw4g4pTKY" version="24.0.7" type="github">
   <diagram name="Page-1" id="bdjmN8I5D_qIehQ8QgfU">
-    <mxGraphModel dx="716" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1214" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="NnbLPP3cd3mvAa81_L1c-38" value="L&#39;utilisateur pose&lt;div&gt;&amp;nbsp;sa question&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="825" y="273" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NnbLPP3cd3mvAa81_L1c-39" value="&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider hr bwn bwo bwp bwq bwr bws bwt bwu bwv bww bwx bwy bwz bxa bxb bxc bxd bxe bxf bxg bxh bxi bxj bxk bxl bxm bxn bxo bxp bxq bxr bxs bxt bxu&quot;&gt;&lt;p&gt;&lt;i style=&quot;&quot;&gt;&lt;font color=&quot;#006600&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Je suis étudiant étranger ou dois-je aller pour recevoir mon équivalence?&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="223" y="60" width="620" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
