@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T08:48:53.548Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0zTztcd3G6SyhlNdz9me" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T09:03:29.142Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_XTJVVekn66Aiwkuhwt7" version="24.0.7" type="github">
   <diagram name="Page-1" id="bdjmN8I5D_qIehQ8QgfU">
     <mxGraphModel dx="1396" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="179" y="203" width="110" height="39.74" as="geometry" />
         </mxCell>
         <mxCell id="jSKqxpYO9cEE2zhA91dm-1" value="Je suis parent étranger, quelles sont les mesures à prendre pour inscrire mon enfant dans une école?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=3;fontColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="200" y="80" width="790" height="30" as="geometry" />
+          <mxGeometry x="180" y="88" width="790" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jSKqxpYO9cEE2zhA91dm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;" parent="1" source="jSKqxpYO9cEE2zhA91dm-2" target="jSKqxpYO9cEE2zhA91dm-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
